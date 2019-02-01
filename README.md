@@ -2,4 +2,4 @@
 
 Maths functions.
 
-[Click here for demo app.](https://horacebury.github.io/MathLib/web/)
+[Click here for demo app.](https://horacebury.github.io/MathLib/web/index.html)
